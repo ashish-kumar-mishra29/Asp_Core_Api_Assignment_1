@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\c# assignment\\web_api\\web_api\\controllers\\keyvaluecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|solutionrelative:web_api\\controllers\\keyvaluecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\c# assignment\\web_api\\web_api\\web_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|solutionrelative:web_api\\web_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\c# assignment\\web_api\\web_api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|solutionrelative:web_api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\c# assignment\\web_api\\web_api\\migrations\\20240318185712_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|solutionrelative:web_api\\migrations\\20240318185712_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\c# assignment\\web_api\\web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|solutionrelative:web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\c# assignment\\web_api\\web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|solutionrelative:web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|c:\\users\\hp\\onedrive\\desktop\\c# assignment\\web_api\\web_api\\entities\\keyvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E49F99-B365-435D-A9F1-5C6CB4A8A661}|Web_Api\\Web_Api.csproj|solutionrelative:web_api\\entities\\keyvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240318185712_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\Migrations\\20240318185712_Initial Migration.cs",
+              "RelativeDocumentMoniker": "Web_Api\\Migrations\\20240318185712_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\Migrations\\20240318185712_Initial Migration.cs",
+              "RelativeToolTip": "Web_Api\\Migrations\\20240318185712_Initial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T18:57:18.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\appsettings.json",
+              "RelativeToolTip": "Web_Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T18:55:02.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web_Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\Web_Api.csproj",
+              "RelativeDocumentMoniker": "Web_Api\\Web_Api.csproj",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\Web_Api.csproj",
+              "RelativeToolTip": "Web_Api\\Web_Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T18:44:43.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Web_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\Program.cs",
+              "RelativeToolTip": "Web_Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T18:33:31.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Web_Api\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\Data\\DataContext.cs",
+              "RelativeToolTip": "Web_Api\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T18:17:36.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyValueController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\Controllers\\KeyValueController.cs",
+              "RelativeDocumentMoniker": "Web_Api\\Controllers\\KeyValueController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\Controllers\\KeyValueController.cs",
+              "RelativeToolTip": "Web_Api\\Controllers\\KeyValueController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:51:11.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KeyValue.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\Entities\\KeyValue.cs",
+              "RelativeDocumentMoniker": "Web_Api\\Entities\\KeyValue.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Web_Api\\Web_Api\\Entities\\KeyValue.cs",
+              "RelativeToolTip": "Web_Api\\Entities\\KeyValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:56:41.778Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
